@@ -1,3 +1,4 @@
+console.log('aaa');
 define( [
 	"./core",
 	"./var/document",
